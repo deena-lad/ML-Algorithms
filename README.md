@@ -1,5 +1,7 @@
 # 📊 ML Algorithms Basics – Hands-on Assignments
 
+NOTE: Dataset Links will be updated soon.
+
 This repository contains Jupyter Notebooks covering foundational machine learning algorithms implemented as part of a Pattern Recognition & Machine Learning (PRML) course. Each notebook focuses on a key algorithm or concept, implemented using Python and scikit-learn.
 
 ---
