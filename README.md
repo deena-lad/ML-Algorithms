@@ -34,7 +34,7 @@ This repository contains Jupyter Notebooks covering foundational machine learnin
 ## 🚀 Getting Started
 
 1. Clone the repository  
-   `git clone https://github.com/deena-lad/ML-Algorithms-Basics.git`
+   `git clone https://github.com/deena-lad/ML-Algorithms.git`
 2. Navigate to the folder  
    `cd ML-Algorithms-Basics`
 3. Launch Jupyter  
